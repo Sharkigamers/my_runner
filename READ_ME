@@ -1,0 +1,11 @@
+DESCRIPTION:
+    The goal of the runner is to let your character running and dodging obstacles to arrive at the end of the map.
+    Make the greatest score and buy skins to be full of swag.
+
+CONTROL :
+        ./my_runner : to start the game
+        ./my_runner -h : to show the READ_ME
+        click : to attack ennemis
+        space_bar : to jump
+
+Have fun and good games.
